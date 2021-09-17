@@ -1,0 +1,12 @@
+numero
+apellidos 
+nombres
+foto
+fecha_de_nacimiento
+lugar_de_nacimiento
+estatura
+rh
+sexo
+expedicion
+
+

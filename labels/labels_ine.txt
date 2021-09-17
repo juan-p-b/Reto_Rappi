@@ -1,0 +1,5 @@
+nombre
+domicilio
+curp
+sexo
+fecha_de_nacimiento
