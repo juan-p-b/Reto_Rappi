@@ -4,13 +4,13 @@ Presentado por:
 
 Michael Stiven Caracas Núñez
 
-Pablo Ignacio Ochoa Sordo
+Pablo Ignacio Ochoa Sordo @PabloIgnacio00
 
 Juan Carlos Pérez Becerra
 
 Mateo Ruiz Navarro
 
-Andrea Velázquez de Dios
+Andrea Velázquez de Dios @andreavelazquezdedioss
 
 ## Folders 
 
@@ -25,6 +25,6 @@ Andrea Velázquez de Dios
 * Ine_model_YOLOv5.ipynb
 
 ## Notebooks Modelos cortos
-Se quitan las salidas de terminar para un mejor lectura
+Se quitan las salidas de terminal para un mejor lectura
 * CC_model_YOLOv5-Compacto.ipynb
 * CC_model_YOLOv5-Compacto.ipynb
