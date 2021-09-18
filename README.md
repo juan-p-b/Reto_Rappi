@@ -14,22 +14,24 @@ Andrea Velázquez de Dios [@andreavelazquezdedioss](https://github.com/andreavel
 
 ## Folders 
 
-*data*: contiene IDs CC con sus bbox
+*data*: contiene IDs CC con sus bbox (comprimidos)
 
 *lables*: categorias de bbox
 
 *Models_yolov5*: modelos obtenidos 
 
-## Notebooks Modelos completos 
+## Files 
+
+####  Notebooks Modelos completos 
 * CC_model_YOLOv5.ipynb
 * Ine_model_YOLOv5.ipynb
 
-## Notebooks Modelos cortos
+####  Notebooks Modelos cortos
 Se quitan las salidas de terminal para un mejor lectura
 * CC_model_YOLOv5-Compacto.ipynb
 * CC_model_YOLOv5-Compacto.ipynb
 
-
-
 Datasets_Teseract.ipynb: se realiza la creación y modificación de la base de datos y se definen las fuentes para la lectura de texto con *tesseract*
+
+
 
