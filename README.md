@@ -20,6 +20,8 @@ Andrea Velázquez de Dios [@andreavelazquezdedioss](https://github.com/andreavel
 
 *Models_yolov5*: modelos obtenidos 
 
+*info*: información del proyecto como el enlace del video y el reporte escrito
+
 ## Files 
 
 ####  Notebooks Modelos completos 
