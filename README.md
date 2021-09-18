@@ -1,7 +1,24 @@
 # Reto Rappi
-data: contiene IDs CC con sus bbox
 
-lables: categorias de bbox
+Presentado por:
+
+Michael Stiven Caracas Núñez
+
+Pablo Ignacio Ochoa Sordo
+
+Juan Carlos Pérez Becerra
+
+Mateo Ruiz Navarro
+
+Andrea Velázquez de Dios
+
+## Folders 
+
+*data*: contiene IDs CC con sus bbox
+
+*lables*: categorias de bbox
+
+*Models_yolov5*: modelos obtenidos 
 
 ## Notebooks Modelos completos 
 * CC_model_YOLOv5.ipynb
