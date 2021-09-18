@@ -4,13 +4,13 @@ Presentado por:
 
 Michael Stiven Caracas Núñez
 
-Pablo Ignacio Ochoa Sordo @PabloIgnacio00
+Pablo Ignacio Ochoa Sordo [@PabloIgnacio00](https://github.com/PabloIgnacio00)
 
 Juan Carlos Pérez Becerra
 
 Mateo Ruiz Navarro
 
-Andrea Velázquez de Dios @andreavelazquezdedioss
+Andrea Velázquez de Dios [@andreavelazquezdedioss](https://github.com/andreavelazquezdedios)
 
 ## Folders 
 
