@@ -9,5 +9,5 @@ lables: categorias de bbox
 
 ## Notebooks Modelos cortos
 Se quitan las salidas de terminar para un mejor lectura
-* Compacto_CC_model_YOLOv5.ipynb
-* Compacto_CC_model_YOLOv5.ipynb
+* CC_model_YOLOv5-Compacto.ipynb
+* CC_model_YOLOv5-Compacto.ipynb
